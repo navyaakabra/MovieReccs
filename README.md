@@ -1,3 +1,2 @@
 # MovieReccs
-`Download Movies.csv, FilmDetails.csv, MoreInfo.csv 
-\nSet path accordingly in the code`
+`Download Movies.csv, FilmDetails.csv, MoreInfo.csv and Set path accordingly in the code`
